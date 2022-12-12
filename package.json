@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Omac092627/lab-08-repository#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.0.2"
   }
 }
